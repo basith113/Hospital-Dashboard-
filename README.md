@@ -1,1 +1,4 @@
 # Hospital-Dashboard-
+
+
+https://app.powerbi.com/view?r=eyJrIjoiZGQzMzc2ZTEtNzJmMy00NTJhLWJlNDctMWJkZWQ0NWE0YWZhIiwidCI6IjY5N2NkYzBhLTU2OTYtNDRmYS04ZmQ0LWMzNWI2MzFjYTBhZCJ9
